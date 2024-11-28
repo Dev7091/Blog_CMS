@@ -1,6 +1,6 @@
 # Blog Content Management System
 
-## Proposal
+## Description
 
 The **Blog Content Management System (CMS)** is an intuitive platform designed to streamline the creation, management, and publication of blog articles. It provides tools for authors, editors, and administrators to efficiently manage blog content while fostering an engaging experience for readers. The CMS supports diverse topics such as lifestyle, technology, travel, and wellness, offering features tailored to enhance workflow and content discoverability.
 
